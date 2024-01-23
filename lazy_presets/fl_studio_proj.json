@@ -1,0 +1,12 @@
+{
+    "name": "FL Studio Project",
+    "procedure":[
+        {
+            "copy": "assets/empty_project.flp",
+            "destination": "project.flp"
+        },
+        {
+            "command": "start project.flp"
+        }
+    ]
+}

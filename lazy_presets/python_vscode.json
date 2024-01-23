@@ -1,0 +1,12 @@
+{
+    "name": "Python File + VS Code",
+    "dir_prefix": "Python script", 
+    "procedure":[
+        {
+            "file": "main.py"
+        },
+        {
+            "command": "code ."
+        }
+    ]
+}
